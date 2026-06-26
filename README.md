@@ -1,0 +1,2 @@
+# mustfck.store
+MyWebsite
